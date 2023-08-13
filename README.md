@@ -1,10 +1,7 @@
 # live
-Static for live page
+Static for live page sample
 
 ## Credits:
-
-### Demo Images:
-		Unsplash (unsplash.com)
 
 ### Icons:
 		Font Awesome (fontawesome.io)
